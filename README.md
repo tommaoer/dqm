@@ -1,0 +1,2 @@
+# dqm
+discrete quadratic model
